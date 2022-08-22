@@ -49,9 +49,9 @@ def tru_list(item):
             break
 
     if flveru and len(len_list.stack) == 0:
-        print('Yes')
+        print('Сбалансированно')
     else:
-        print('No')
+        print('Несбалансированно')
 
 
 if __name__ == '__main__':
